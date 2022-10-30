@@ -6,6 +6,7 @@ const nextConfig = {
   images: {
     domains: ["files.stripe.com"],
   },
+  newNextLinkBehavior: true,
 };
 
 module.exports = nextConfig;
